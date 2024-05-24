@@ -1,4 +1,4 @@
-## Foundry Upgrades
+# Foundry Upgrades
 
 ## Usage
 
